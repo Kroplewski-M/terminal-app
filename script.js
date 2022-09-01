@@ -146,7 +146,7 @@ Hadvar:	"By your orders, Captain."
             return;
         };
         default:{
-            const error = `<p class="text-red-500/70">invalid command, type <span class="text-orange-400">help</span> to view all commands. </p>`;
+            const error = `<p class="text-red-500/70 font-mono">invalid command, type <span class="text-orange-400">help</span> to view all commands. </p>`;
             appendToDOM(error);
         }
     }
