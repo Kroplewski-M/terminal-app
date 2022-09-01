@@ -77,7 +77,7 @@ function getCommand(input){
              <div class="flex flex-col text-orange-400 pt-5 font-mono">
                 <a target="_blank" href="https://github.com/Kroplewski-M">Github - Kroplewski-M</a>
                 <a target="_blank" href="https://www.linkedin.com/in/mateusz-kroplewski-732239176/">Linkedin - Mateusz Kroplewski</a>
-                <a target="_blank" href="https://www.youtube.com/channel/UCh3UVK4hMRL_K0swKBg_BVA">YouTube - WebDevMat</a>
+                <a target="_blank" href="https://www.instagram.com/mateuszkroplewski/">Instagram - mateuszkroplewski</a>
              </div>
 
             `;
